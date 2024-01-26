@@ -1,0 +1,14 @@
+### cd : change directoryhttps://github.com/timetowander/threads/tree/main
+
+뒤에 올 수 인자로는 절대경로/상대경로가 있음
+
+절대경로는 그 위치의 절대적인 경로 지정        ex ) /home/lab07
+상대경로는 나의 현재 위치를 기준으로 경로 지정 ex) ..
+
+
+/home/lab07 - 현재 위치
+
+/home 로 가기 위해서
+
+절대경로 - cd /home
+상대경로 - cd ..
